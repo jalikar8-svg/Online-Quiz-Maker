@@ -58,4 +58,4 @@ Do not use real passwords with this demo.
 
 ## Author
 
-Developed as part of the CODSOFT Web Development Internship.
+Developed as a part of an Innovative Project and may many more changes can be brought in future.
