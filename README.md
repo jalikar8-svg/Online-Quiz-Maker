@@ -11,8 +11,6 @@ Other users can then take the quiz  and receive immediate feedback on their scor
 QuizNest is a responsive online quiz-making platform developed using HTML, CSS, and JavaScript. 
 It allows users to create quizzes, attempt multiple-choice questions, and view their results immediately.
 
-This project was developed for the CODSOFT Web Development Internship, Level 2 Task 2.
-
 ## Features
 
 - User registration and login demo
